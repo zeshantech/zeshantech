@@ -1,6 +1,6 @@
 <div style="display: flex; gap: 12px; align-items: center;">
   
-follow for a cookie :)
+## follow for a cookie :)
 
-<img src="https://static.vecteezy.com/system/resources/previews/009/400/072/non_2x/homemade-tasty-cookies-clipart-design-illustration-free-png.png" width="100" >
+<img src="https://static.vecteezy.com/system/resources/previews/009/400/072/non_2x/homemade-tasty-cookies-clipart-design-illustration-free-png.png" width="300" >
 </div>
