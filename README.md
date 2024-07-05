@@ -1,4 +1,2 @@
-<div style="display: flex;">
-  ##                                        follow for a cookie :)
+  ## follow for a cookie :)
   <img src="https://static.vecteezy.com/system/resources/previews/009/400/072/non_2x/homemade-tasty-cookies-clipart-design-illustration-free-png.png" width="30">
-</div>
