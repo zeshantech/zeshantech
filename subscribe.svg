@@ -1,0 +1,7 @@
+<svg width="800" height="150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="150" fill="#000000" rx="20" ry="20" />
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="40" fill="#ffffff" dominant-baseline="middle" text-anchor="middle">
+    subscribe for a cookie :)
+  </text>
+  <image href="https://upload.wikimedia.org/wikipedia/commons/7/74/Cookie_icon.svg" x="650" y="20" height="110" width="110"/>
+</svg>
