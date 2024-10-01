@@ -5,7 +5,7 @@
 ## My Organizations
 
 <a href="https://github.com/golang-programming">
-  <img src="https://avatars.githubusercontent.com/u/170225707?s=400&u=b430f4ad80edd0894372f1fb9b16a508d36c0537&v=4" alt="Golang Programming" width="56" height="56">
+  <img src="https://avatars.githubusercontent.com/u/170225707?s=400&u=b430f4ad80edd0894372f1fb9b16a508d36c0537&v=4" alt="Golang Programming" width="64" height="64">
 </a>
 
 <a href="https://github.com/codeboosts">
